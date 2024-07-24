@@ -75,5 +75,7 @@ Date parsing is handled with the datetime module, and invalid date formats are c
 Optional Features:
 Task priorities, due dates, and color-coding enhance the functionality of the application, making it easier to manage and prioritize tasks.
 
-Thank you reading and using the application. :)
+Thank you for reading and using the application. :)
+
+Check it out here: https://github.com/codeland93/-Mini-project-To-Do-List-Application.git
 
